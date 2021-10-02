@@ -1,0 +1,26 @@
+{
+  "CHANGE_PASSWORD": "Change password successfully.",
+  "CHECK_EMAIl": "Please, Check your email.",
+
+  "DEFAULT": "Action successfully performed.",
+  "DEFAULTERR": "Opps! Something went wrong!!",
+  "DEFAULT_AUTH": "User is not authenticated.",
+  "DEFAULT_INTERNAL_SERVER_ERROR": "Internal server error.",
+
+  "GET_PROFILE": "Get User profile successfully.",
+
+  "LOGIN_SUCCESS": "Login successfully.",
+
+  "SIGNUP_FAILED": "Signup Failed.",
+  "SIGNUP_SUCCESS": "Signup successfully.",
+
+  "USER_EXISTS": "User already exists.",
+
+  "USEREMAIL_EXISTS": "Email already exists.",
+  "USER_LIST": "Fetched Users successfully.",
+  "USER_NOT_FOUND": "User is not found.",
+
+  "INVALID_OTP": "Invalid OTP",
+
+  "DETAIL_NOT_FOUND": "Detail not found."
+}
